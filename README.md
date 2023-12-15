@@ -24,6 +24,9 @@ This is a perfect project for beginners who want to:
 - 🔒 Secure password hashing: Protect user information with industry-standard practices
 - 🔄 Session management: Track user login status and personalize their experience
 
+## Watch Demo:
+https://github.com/taha007860/Registration-Form/assets/96583299/cda198a9-2293-4b3f-98d7-e5fd22937d9d
+
 ### Bonus:
 
 - 🛠 Feel free to fork and customize the code to fit your specific needs
